@@ -7,4 +7,4 @@ MileStone 1: RoomSystem: it is more like GameCenter FindMatch. but we can delelo
 
 MileStone 2: RankSystem: record player's game stats info. it is  leaderboard with more logic call back.   
 
-MileStone 3: QuestSystem. ItemSystem. MallSystem Chat. RewardSystem.
+MileStone 3: QuestSystem. ItemSystem. MallSystem Chat. RewardSystem Account & Social 
